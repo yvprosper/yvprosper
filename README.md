@@ -55,7 +55,7 @@ Software engineer with experience building and maintaining the backend infrastru
 <p align="center">
 <a href="https://www.linkedin.com/in/prosper-eravwuvieke-25b534163/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn--Prosper Eravuvieke-blue?style=flat&logo=linkedin"></a>
   <a href="http://twitter.com/crownis_bryno">
-    <img src="https://img.shields.io/badge/follow-%40crownis_bryno%20130k+-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Prosper's Twitter"/>
+    <img src="https://img.shields.io/badge/follow-%40crownis_bryno%20130k+-1DA1F2?label=Twitter&logo=twitter&style=flat" alt="Prosper's Twitter"/>
   </a>
 <a href="mailto:prosperoera@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-prosperoera@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
