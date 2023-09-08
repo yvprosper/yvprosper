@@ -7,7 +7,7 @@
 
 <div>
  <p>
-Software engineer with experience building and maintaining the backend infrastructure of enterprise level web applications. I utilize modern tools and concepts to build scalable and highly performing software products. In my free time I mentor newbie web developers and or web development enthusiasts. I have helped 20+ people get into web development and the number is constantly increasing. I am constantly learning new technologies and am open to opportunities where I can apply my knowledge to build scalable software products with the latest on demand technologies.
+I'm Software engineer with experience building and maintaining the backend infrastructure of enterprise level web applications. I utilize modern tools and concepts to build scalable and highly performing software products. In my free time I mentor newbie web developers and or web development enthusiasts. I have helped 20+ people get into web development and the number is constantly increasing. I am constantly learning new technologies and am open to opportunities where I can apply my knowledge to build scalable software products with the latest on demand technologies.
 
 </p>
 </div>
