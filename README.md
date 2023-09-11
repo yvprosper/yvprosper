@@ -19,12 +19,9 @@ I'm Software engineer with experience building and maintaining the backend infra
   ![Windows](https://img.shields.io/badge/-Windows-0A1A2F?style=flat&logo=windows)
 - 📱 &nbsp;Programming Language:&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
-  ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
 - 🗄 &nbsp;Backend:&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-0A1A2F?style=flat&logo=express)
-  ![Django](https://img.shields.io/badge/-Django-0A1A2F?style=flat&logo=django)
-  ![Flask](https://img.shields.io/badge/-Flask-0A1A2F?style=flat&logo=flask)
 - 🛢 &nbsp;Database:&nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
   ![Postgresql](https://img.shields.io/badge/-Postgresql-0A1A2F?style=flat&logo=postgresql)
@@ -35,7 +32,6 @@ I'm Software engineer with experience building and maintaining the backend infra
   ![Gitlab](https://img.shields.io/badge/-Gitlab-0A1A2F?style=flat&logo=gitlab)
 - 🔧 &nbsp;IDE's:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio%20Code-0A1A2F?style=flat&logo=android-studio)
   ![Vim](https://img.shields.io/badge/-Vim-0A1A2F?style=flat&logo=vim&logoColor=007ACC)
 - 🖥 &nbsp;Design:&nbsp;
   ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
@@ -46,9 +42,6 @@ I'm Software engineer with experience building and maintaining the backend infra
   ![AWS](https://img.shields.io/badge/-aws-0A1A2F?style=flat&logo=aws)
 
 <br/>
-
-### Github Stats
-[![Eravwuvieke Prosper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yvprosper&show_icons=true&count_private=true)](https://github.com/abdulazeez001)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
